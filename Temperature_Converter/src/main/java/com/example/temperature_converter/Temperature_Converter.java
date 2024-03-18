@@ -1,4 +1,4 @@
-package com.example.currency_converter;
+package com.example.temperature_converter;
 
 import javafx.application.Application;
 import javafx.collections.FXCollections;
